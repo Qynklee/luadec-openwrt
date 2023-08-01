@@ -5,8 +5,7 @@ a bigthanks to http://storypku.com/2015/07/how-to-decompile-bytecoded-openwrt-lu
 
 To do
  
-sudo apt-get install libncurses-dev libreadline-dev
-sudo apt-get install liblua5.1-0-dev
+sudo apt-get install libncurses-dev libreadline-dev liblua5.1-0-dev
 
  
 git clone  https://github.com/HandsomeYingyan/luadec-openwrt.git 
